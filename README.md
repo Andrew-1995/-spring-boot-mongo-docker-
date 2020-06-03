@@ -26,11 +26,11 @@ docker build -t dockerhandson/spring-boot-mongo .
 
 ```docker-compose 
 docker-compose up -d 
-```
+```asd
 
-## List Docker Containers
+## List Docker Containersasd
 ```docker
-docker ps -a
+docker ps -adas
 ```
 
 ## License
